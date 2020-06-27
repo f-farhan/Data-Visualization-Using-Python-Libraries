@@ -63,22 +63,22 @@ The repository is divided into 4 Modules. Each module has a seperate notebook.
   
   
 
-#### Disclaimer:All the content of this repository is not entirely created by me, some codes are a compilation of multiple courses that I have done online.
+#### Disclaimer:All the contents of this repository is not entirely created by me, some codes are a compilation of multiple courses that I have done online.
 
 #### References:
-   - 1. https://numpy.org/doc/
-   - 2.https://www.tutorialspoint.com/numpy/index.htm
-   - 3.https://www.edureka.co/blog/python-numpy-tutorial/
-   - 4.https://pandas.pydata.org/docs/
-   - 5.https://www.kaggle.com/learn/pandas
-   - 6.https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
-   - 7.https://matplotlib.org/
-   - 8.http://index-of.co.uk/Tutorials/Matplotlib%20for%20Python%20Developers.pdf
-   - 9.http://seaborn.pydata.org/
-   - 10.https://www.coursera.org/learn/understanding-visualization-data?
-   - 11. https://www.coursera.org/learn/python-data-analysis
-   - 12. https://notebooks.ai/max-davy/freecodecamp-intro-to-pandas-e1cb9701/lab
-   - 13. https://jakevdp.github.io/PythonDataScienceHandbook/
+   - i.https://numpy.org/doc/
+   - ii.https://www.tutorialspoint.com/numpy/index.htm
+   - iii.https://www.edureka.co/blog/python-numpy-tutorial/
+   - iv.https://pandas.pydata.org/docs/
+   - v.https://www.kaggle.com/learn/pandas
+   - vi.https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+   - vii.https://matplotlib.org/
+   - viii.http://index-of.co.uk/Tutorials/Matplotlib%20for%20Python%20Developers.pdf
+   - ix.http://seaborn.pydata.org/
+   - x.https://www.coursera.org/learn/understanding-visualization-data?
+   - xi.https://www.coursera.org/learn/python-data-analysis
+   - xii.https://notebooks.ai/max-davy/freecodecamp-intro-to-pandas-e1cb9701/lab
+   - xiii.https://jakevdp.github.io/PythonDataScienceHandbook/
    
    
     -
