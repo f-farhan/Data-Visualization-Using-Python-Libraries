@@ -14,7 +14,7 @@ The repository is divided into 4 Modules. Each module has a seperate notebook.
 ## Modules:
 
 - **Module 1** - [Numpy Basics](https://github.com/ffarhaaan/Data-Visualization-Using-Python-Libraries/blob/master/M01-Numpy-Basics.ipynb)
-  -Importing Libraries
+    -Importing Libraries
   -Basic Numpy Arrays
   -Array Types
   -Dimension & Shapes
